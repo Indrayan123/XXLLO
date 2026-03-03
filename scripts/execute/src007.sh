@@ -1,3 +1,0 @@
-echo "aaaa";
-echo "asdasd";
-
